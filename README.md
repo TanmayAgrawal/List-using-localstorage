@@ -1,2 +1,0 @@
-# list.github.io
-Completed
